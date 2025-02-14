@@ -2,7 +2,11 @@
 
 ## Overview
 
-This project uses Power BI to analyze the results of a survey focused on data professionals.  The survey collects information on various aspects of their careers, satisfaction, and demographics.  This analysis aims to provide insights into the experiences, opinions, and trends within the data professional community.
+This project uses Power BI to analyze the results of a survey focused on data professionals.  The survey collects 
+information on various aspects of their careers, satisfaction, and demographics.  
+## DashBoard :-![Image](https://github.com/user-attachments/assets/b081f22e-1596-4b9c-aec5-6d34629875cc)
+
+This analysis aims to provide insights into the experiences, opinions, and trends within the data professional community.
 
 ## Data Source
 
@@ -62,4 +66,8 @@ This analysis could reveal:
 *   Develop more interactive visualizations to allow users to explore the data in more depth.
 *   Implement forecasting models to predict future trends in the data professional landscape.
 *   Add filtering and slicing for very granular data exploration.
+
+## Contact
+
+[Your Name/Contact Information]
 
